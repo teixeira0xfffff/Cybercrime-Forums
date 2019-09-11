@@ -53,6 +53,7 @@ https://exploit.in/                 | Forum      | n       | Semi
 https://leakforums.net              | Forum      | n       | Semi
 https://cracked.to/                 | Forum      | n       | Semi
 http://eliteleaks.ml/               | Forum      | n       | Semi
-
+http://orvx.pw/                     | Shop/Forum | Semi    | Semi
+https://nexusgen.org/               | Shop       | n       | premium
 
 **educational purpose only**
