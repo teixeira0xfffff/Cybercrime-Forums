@@ -47,5 +47,7 @@ https://darkmoney.vc/               | Forum      | n       | RU
 http://skimme.rs                    | shop       | n       | Skimming shop
 https://level23hacktools.com        | shop/Forum | Semi    | premium marketplace
 https://crackingportal.com          | Shop/Forum | Semi    | premium/free marketplace
+https://forum.blackhatindia.ru/     | Forum      | n       | free
+https://runtime.rip                 | Forum      | n       | free
 
 **educational purpose only**
