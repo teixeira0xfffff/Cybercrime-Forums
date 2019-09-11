@@ -49,5 +49,10 @@ https://level23hacktools.com        | shop/Forum | Semi    | premium marketplace
 https://crackingportal.com          | Shop/Forum | Semi    | premium/free marketplace
 https://forum.blackhatindia.ru/     | Forum      | n       | free
 https://runtime.rip                 | Forum      | n       | free
+https://exploit.in/                 | Forum      | n       | Semi
+https://leakforums.net              | Forum      | n       | Semi
+https://cracked.to/                 | Forum      | n       | Semi
+http://eliteleaks.ml/               | Forum      | n       | Semi
+
 
 **educational purpose only**
