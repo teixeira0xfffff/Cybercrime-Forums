@@ -46,5 +46,6 @@ http://moneyteam.cc/                | Forum      | n       | carding
 https://darkmoney.vc/               | Forum      | n       | RU  
 http://skimme.rs                    | shop       | n       | Skimming shop
 https://level23hacktools.com        | shop/Forum | Semi    | premium marketplace
+https://crackingportal.com          | Shop/Forum | Semi    | premium/free marketplace
 
 **educational purpose only**
