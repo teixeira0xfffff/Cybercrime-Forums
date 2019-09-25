@@ -55,5 +55,6 @@ https://cracked.to/                 | Forum      | n       | Semi
 http://eliteleaks.ml/               | Forum      | n       | Semi
 http://orvx.pw/                     | Shop/Forum | Semi    | Semi
 https://nexusgen.org/               | Shop       | n       | premium
+https://www.unknowncheats.me/forum/ | Forum      | n       | free
 
 **educational purpose only**
